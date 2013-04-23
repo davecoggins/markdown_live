@@ -19,7 +19,7 @@ class extension_markdown_live extends Extension {
 					'email'			=> 'info@arthurmingard.com'
 				)
 			),
-			'description'	=> 'Preview markdown fields.'
+			'description'	=> 'Preview markdown fields in the editor.'
 		);
 	}
 

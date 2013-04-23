@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension id="your_extension_path" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Markdown Live</name>
+	<description>Preview markdown fields in the editor.</description>
+	<repo type="github">https://github.com/g-wilson/markdown_live</repo>
+	<authors>
+		<author>
+			<name github="g-wilson" symphony="gwilson" twitter="george_wilson">George Wilson</name>
+			<email>george@g-wilson.co.uk</email>
+			<website>http://g-wilson.co.uk</website>
+		</author>
+		<author>
+			<name github="arthurmingard" symphony="arthurmingard" twitter="mingard">Arthur Mingard</name>
+			<email>info@arthurmingard.com</email>
+			<website>http://arthurmingard.com</website>
+		</author>
+	</authors>
+	<types>
+		<type>Text Formatter</type>
+	</types>
+	<releases>
+		<release version="1.0.0" date="2013-04-23" min="2.1" max="2.4"/>
+	</releases>
+</extension>

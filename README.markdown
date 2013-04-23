@@ -4,7 +4,8 @@ Markdown Live Extension
 * Version: 1.0
 * Author: George Wilson (george@g-wilson.co.uk), Arthur Mingard
 * Build Date: 23 April 2013
-* Requirements: Tested on Symphony CMS version 2.3.1. Requires version 1.11 of the Markdown Text Formatter extension.
+* Requirements: Tested on Symphony CMS version 2.3.1. Runs on top of the Markdown Text Formatter extension, but won't break without it.
+* Uses https://github.com/evilstreak/markdown-js for JavaScript Markdown to HTML conversion
 
 Installation
 ------------
@@ -21,5 +22,3 @@ Change Log
 Version 1.0 - 23 April 2013
 
 - Initial Release
-
-
