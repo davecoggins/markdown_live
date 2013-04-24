@@ -14,3 +14,9 @@
   margin: 5px 0;
   padding: 0;
 }
+#markdownpreview ol {
+  list-style-type: decimal;
+}
+#markdownpreview ul {
+  list-style-type: disc;
+}

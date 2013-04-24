@@ -19,6 +19,6 @@
 		<type>Text Formatter</type>
 	</types>
 	<releases>
-		<release version="1.0.0" date="2013-04-23" min="2.1" max="2.4"/>
+		<release version="1.0.1" date="2013-04-24" min="2.1" max="2.4"/>
 	</releases>
 </extension>

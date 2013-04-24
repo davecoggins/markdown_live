@@ -5,8 +5,8 @@ class extension_markdown_live extends Extension {
 	public function about() {
 		return array(
 			'name'			=> 'Markdown Live',
-			'version'		=> '1.0',
-			'release-date'	=> '2013-04-23',
+			'version'		=> '1.0.1',
+			'release-date'	=> '2013-04-24',
 			'author'		=> array(
 				array(
 					'name'			=> 'George Wilson',
