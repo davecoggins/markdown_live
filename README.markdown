@@ -14,8 +14,6 @@ Installation
 
 2. Enable it by selecting `Markdown Live` in the `System -> Extensions` menu, choose Enable from the with-selected menu, and then click Apply.
 
-3. Now a button for showing the condensed guide will appear below any textarea field that uses one of the markdown text formatter options.
-
 Change Log
 ----------
 
